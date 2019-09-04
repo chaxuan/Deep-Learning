@@ -1,5 +1,5 @@
 # Deep-Learning
-### This is for the Coursera specialization Deep Learning
+### Coursera specialization Deep Learning
 
 ### About this specialization
 
